@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.params=t
+comment0.target=Square(java.lang.String)
+comment1.params=
+comment1.target=java.lang.String\ imageName()
+comment2.params=
+comment2.target=boolean\ isEmptyShelf()
+comment2.text=Does\ this\ shelf\ still\ miss\ its\ box?
+comment3.params=
+comment3.target=boolean\ hasBox()
+comment3.text=Whether\ there\ is\ a\ box\ on\ this\ square
+comment4.params=
+comment4.target=boolean\ isFree()
+comment4.text=Whether\ the\ square\ is\ free\ to\ move\ onto
+comment5.params=
+comment5.target=void\ moveBoxOff()
+comment5.text=The\ square\ you\ get\ if\ you\ push\ a\ box\ off\ this\ square
+comment6.params=
+comment6.target=void\ moveBoxOn()
+comment6.text=The\ square\ you\ get\ if\ you\ push\ a\ box\ on\ to\ this\ square
+numComments=7

@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=action\ dir
+comment0.target=ActionRecord(java.lang.String,\ java.lang.String)
+comment1.params=
+comment1.target=boolean\ isPush()
+comment2.params=
+comment2.target=boolean\ isMove()
+comment3.params=
+comment3.target=java.lang.String\ direction()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+comment5.text=Test\ method
+numComments=6
